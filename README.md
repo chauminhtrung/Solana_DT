@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# SolFund Revolutionizing: Harnessing the Power of Solana's Blockchain for Unprecedented Fundraising Opportunities. 
+# A Project Developed for SuperTeam's Hackathon with Next.js Tailwind and React
+"Making Transactions to Multiple Foundations with Solana has never been easier"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### [Live Site](https://sol-funding.vercel.app/)
 
-## Available Scripts
 
-In the project directory, you can run:
+<img width="1422" alt="Screenshot 2023-06-04 at 11 45 10" src="https://github.com/LilianaSP/SOLFunding/assets/102379771/66fdc465-0d68-457f-bdff-48e52e17be5c">
 
-### `npm start`
+### [Youtube Video ](https://youtu.be/Dq2eY8LgEmk)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# Install Node.js before running the project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![NPM version][npm-image]][npm-url]
+[![build status][travis-image]][travis-url]
+[![Test coverage][codecov-image]][codecov-url]
+[![David deps][david-image]][david-url]
+[![Known Vulnerabilities][snyk-image]][snyk-url]
+[![npm download][download-image]][download-url]
 
-### `npm run build`
+[npm-image]: https://img.shields.io/npm/v/install-node.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/install-node
+[travis-image]: https://img.shields.io/travis/node-modules/install-node.svg?style=flat-square
+[travis-url]: https://travis-ci.org/node-modules/install-node
+[codecov-image]: https://codecov.io/gh/node-modules/install-node/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/node-modules/install-node
+[david-image]: https://img.shields.io/david/node-modules/install-node.svg?style=flat-square
+[david-url]: https://david-dm.org/node-modules/install-node
+[snyk-image]: https://snyk.io/test/npm/install-node/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/install-node
+[download-image]: https://img.shields.io/npm/dm/install-node.svg?style=flat-square
+[download-url]: https://npmjs.org/package/install-node
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Install node into node_modules.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Install with default dependencies
 
-### `npm run eject`
+```bash
+$ npm i 
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Then run `npm run dev` command:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+$ npm run dev
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Now you can see `node` on `node_modules/.bin/node`.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+$ ll node_modules/.bin/node
+node_modules/.bin/node@ -> ../node/bin/node
+```
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT](LICENSE)
