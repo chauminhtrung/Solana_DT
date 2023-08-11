@@ -2,23 +2,7 @@
 # A Project Developed for SuperTeam's Hackathon with Next.js Tailwind and React
 "Making Transactions to Multiple Foundations with Solana has never been easier"
 
-### [Live Site](https://sol-funding.vercel.app/)
 
-
-<img width="1422" alt="Screenshot 2023-06-04 at 11 45 10" src="https://github.com/LilianaSP/SOLFunding/assets/102379771/66fdc465-0d68-457f-bdff-48e52e17be5c">
-
-### [Youtube Video ](https://youtu.be/Dq2eY8LgEmk)
-
-
-
-# Install Node.js before running the project
-
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][codecov-image]][codecov-url]
-[![David deps][david-image]][david-url]
-[![Known Vulnerabilities][snyk-image]][snyk-url]
-[![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/install-node.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/install-node
